@@ -1,0 +1,43 @@
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\Android sliding puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Android sliding puzzle.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Android sliding puzzle.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Android_sliding_puzzle.Android_sliding_puzzle.apk
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Android_sliding_puzzle.Android_sliding_puzzle-Signed.apk
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\Android sliding puzzle.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\Android sliding puzzle.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\bin\Android_sliding_puzzle.Android_sliding_puzzle.apk
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\res\layout\main.xml
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\res\values\strings.xml
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\res\drawable\icon.png
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\R.cs.flag
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\uploadflags.txt
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Android sliding puzzle.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\mscorlib.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\System.Core.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\System.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\System.Xml.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\Android sliding puzzle.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Andrei\documents\visual studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\obj\Debug\Android sliding puzzle.dll.mdb
+C:\Users\Andrei\documents\visual studio 2015\Projects\Android sliding puzzle\Android sliding puzzle\bin\Debug\Android sliding puzzle.dll.mdb
