@@ -1,3 +1,5 @@
+# Find the complete instructions and documentation in /Documentation.pdf
+
 
 Following this tutorial you will create your own very first Android
 application using C# and Xamarin. There are no prerequisited to build a great app and you
@@ -6,8 +8,6 @@ approach. I will explain at every stage what we are trying to achive and
 how to code each element used.
 
 
-
-**Find the complete instructions and documentation in /Documentation.pdf**
 
 ![App picture](https://github.com/margiki/Xamarin-Sliding-Puzzle/blob/master/Pictures/Screenshot.jpg)
 
